@@ -6,5 +6,6 @@ This repository contains my daily Java practice programs as I learn and improve 
 - ✅ Day 1 – Java Basics
 - ✅ Day 2 – Control Statements & Loops
 - ✅ Day 3 – Arrays_Strings
+- ✅ Day 4 - Oops
 
 More updates coming soon! 🚀
