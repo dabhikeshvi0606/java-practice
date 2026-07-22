@@ -7,5 +7,6 @@ This repository contains my daily Java practice programs as I learn and improve 
 - ✅ Day 2 – Control Statements & Loops
 - ✅ Day 3 – Arrays_Strings
 - ✅ Day 4 - Oops
+- ✅ Day 5 - ExceptionHandling
 
 More updates coming soon! 🚀
