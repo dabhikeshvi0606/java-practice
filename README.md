@@ -8,5 +8,6 @@ This repository contains my daily Java practice programs as I learn and improve 
 - ✅ Day 3 – Arrays_Strings
 - ✅ Day 4 - Oops
 - ✅ Day 5 - ExceptionHandling
+- ✅ Day 6 - Collections
 
 More updates coming soon! 🚀
