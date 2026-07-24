@@ -9,5 +9,6 @@ This repository contains my daily Java practice programs as I learn and improve 
 - ✅ Day 4 - Oops
 - ✅ Day 5 - ExceptionHandling
 - ✅ Day 6 - Collections
+- ✅ Day 7 - JDBC Basics
 
 More updates coming soon! 🚀
